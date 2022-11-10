@@ -108,3 +108,37 @@
 // else if(inp<0){
 //     alert("this is negative")
 // }
+
+// var inp = prompt("Enter a current hour")
+// if(inp=== "6am" || inp === "7am" || inp === "8am" ||  inp === "9am"){
+//     alert("BreakFast is survied")
+// }
+// else if(inp === "11am" || inp=== "12pm" || inp === "1pm"){
+//     alert("Time for lunch ")
+// }
+// else if(inp === "5pm"|| inp=== "6pm" || inp === "7pm" || inp === "8pm"){
+//     alert("Its a dinner time")
+// }
+// else{
+//     alert("Sorry, you'll have to wait, or go get a snack.")
+// // }
+
+// var num = 2;
+// var str = "Hello World";
+// console.log(typeof num)
+// console.log(typeof str)
+
+
+// var inp= prompt("Enter a character of A to Z check this is vovel");
+// if(inp === "a" ||inp === "e" ||inp === "i" ||inp === "o" ||inp === "u" || 
+// inp === "A" ||inp === "E" ||inp === "I" ||inp === "O" || inp === "U"  ){
+//     alert("Its is vovels")
+// }
+// else{
+//     alert("This is not vovels")
+// }
+
+
+// if(10 === 8){
+//     alert('10 is not equal to 8')
+// }
